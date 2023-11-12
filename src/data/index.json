@@ -1,0 +1,40 @@
+{
+    "skills": [
+      {
+        "id": "1",
+        "src": "./img/product-chain-1.png",
+        "title": "Speaking",
+        "description": "Salah satu pengalaman yang perlu di dalami adalah berbicara, karena dengan hal ini dapat mempermudah memahami kehidupan"
+      },
+      {
+        "id": "2",
+        "src": "./img/tag-1.png",
+        "title": "Asisten",
+        "description": "Meski bukan seorang tenaga kesehatan, pernah menjadi asisten tenaga kesehatan adalah suatu kesenangan tersendiri karena bisa mendapatkan ilmu lainnya"
+      },
+      {
+        "id": "3",
+        "src": "./img/feather-pen-2.png",
+        "title": "Pendidik",
+        "description": "Bukan suatu keinginan untuk menjadi seorang pengajar, namun pada akhirnya akan kembali menjadi seorang pendidik"
+      },
+      {
+      "id": "4",
+      "src": "./img/feather-pen-1.png",
+      "title": "Memotivasi",
+      "description": "Memotivasi dijadikan sebagai skill karena tidak semua orang mampu untuk memotivasi dirinya dan orang lain"
+      }
+    ],
+    "portfolio": [
+      {
+        "id": "1",
+        "src": "./img/panah.png",
+        "title": "Memanah",
+        "description": "Salah satu pencapaian sedari dulu bisa mengikuti komunitas panah",
+        "link": "View"
+      }
+      
+    ]
+
+  }
+  
