@@ -61,7 +61,6 @@ function Navbar() {
               Home
             </Link>
           </li>
-         
           <li>
             <Link
               onClick={closeMenu}
@@ -95,3 +94,4 @@ function Navbar() {
 }
 
 export default Navbar;
+
