@@ -30,19 +30,6 @@ function Footer() {
                 smooth={true}
                 offset={-70}
                 duration={500}
-                to="MyPortfolio"
-                className="text-md"
-              >
-                Portfolio
-              </Link>
-            </li>
-            <li>
-              <Link
-                activeClass="navbar--active-content"
-                spy={true}
-                smooth={true}
-                offset={-70}
-                duration={500}
                 to="AboutMe"
                 className="text-md"
               >
@@ -209,3 +196,4 @@ function Footer() {
 }
 
 export default Footer;
+
